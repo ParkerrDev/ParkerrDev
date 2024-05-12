@@ -4,10 +4,10 @@ I'm a second-year high school student at Floyd B. Buchanan High School, with an 
 
 You can learn more about me on my website: [parkerhunt.me](https://parkerhunt.me)
 
-<h2 align="center">Skills </h2>
+<h2 align="center">Skills</h2><small></small>(In order of experience)<small>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,vim,python,rust,bash,golang,css,html,js," />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,vim,python,html,css,bash,rust,golang,js," />
   </a>
 </p>
 
