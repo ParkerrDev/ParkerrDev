@@ -11,8 +11,6 @@ You can learn more about me on my website: [parkerhunt.me](https://parkerhunt.me
     <img src="https://skillicons.dev/icons?i=linux,vscode,vim,python,html,css,bash,rust,golang,js," />
   </a>
 </p>
-
-
 <p href="https://discord.gg/onlp" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=ParkerrDev&theme=tokyonight&show_icons=true">
 </p>
