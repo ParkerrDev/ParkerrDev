@@ -7,7 +7,7 @@ You can learn more about me on my website: [parkerhunt.me](https://parkerhunt.me
 <h2 align="center">Skills </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,vim,python,rust,golang,css,html,js," />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,vim,python,rust,bash,golang,css,html,js," />
   </a>
 </p>
 
