@@ -4,6 +4,11 @@ I'm a second-year high school student at Floyd B. Buchanan High School, with an 
 
 You can learn more about me on my website: [parkerhunt.me](https://parkerhunt.me)
 
+Other projects I'm working on that I haven't open sourced yet:
+- GPTplusplus: Getting large language models to generate text that sounds human by default.
+- myJarvis: Making JARVIS from the Iron Man movies accessible to everyone!
+- + More that I can't tell you about ;)
+
 <h2 align="center">Skills</h2>
 <p align="center"><small>(In order of experience)</small></p>
 <p align="center">
