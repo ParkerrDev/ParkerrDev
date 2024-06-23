@@ -14,7 +14,7 @@ Other projects I'm working on that I haven't open sourced yet:
 <p align="center"><small>(In order of experience)</small></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,neovim,python,html,css,bash,rust,js" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,neovim,python,nix,html,css,bash,rust,js" />
   </a>
 </p>
 <p href="https://discord.gg/parkerhunt.me" align="center">
