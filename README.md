@@ -22,3 +22,10 @@ Other projects I'm working on that I haven't open sourced yet:
 <p href="https://discord.gg/parkerhunt.me" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkerrDev&layout=compact&theme=blueberry&count_private=true&hide_border=true">
 </p>
+
+<p align="center">
+![github contribution grid snake animation](https://raw.githubusercontent.com/ParkerrDev/ParkerrDev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ParkerrDev/ParkerrDev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=ParkerrDev)
+</p>
