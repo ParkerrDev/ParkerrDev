@@ -34,7 +34,7 @@ Other projects I'm working on that I haven't open sourced yet:
 #### Other Technologies
 ![Backend Technologies](https://skillicons.dev/icons?i=pytorch,sklearn,markdown,selenium,qt,opencv,bots)
 
-#### OS's
+#### Operating Systems
 ![OS's](https://skillicons.dev/icons?i=linux,nix,redhat,raspberrypi,kali,windows)
 
 #### Tools and Software
