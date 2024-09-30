@@ -23,7 +23,7 @@ Other projects I'm working on that I haven't open sourced yet:
 ## Skills
   
 #### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=python,js,ts,rust,cpp,bash,nix)
+![Programming Languages](https://skillicons.dev/icons?i=python,js,rust,cpp,bash,nix)
 
 #### Frontend Technologies
 ![Programming Languages](https://skillicons.dev/icons?i=html,css,sass)
