@@ -38,5 +38,5 @@ Other projects I'm working on that I haven't open sourced yet:
 ![OS's](https://skillicons.dev/icons?i=linux,nix,redhat,raspberrypi,kali,windows)
 
 #### Tools and Software
-![Backend Technologies](https://skillicons.dev/icons?i=vscode,neovim,obsidian,git,github,netlify,postman,figma,githubactions,gitlab,anaconda,ps)
+![Backend Technologies](https://skillicons.dev/icons?i=vscode,neovim,obsidian,ps,figma,netlify,postman,git,github,githubactions,gitlab,anaconda)
 
