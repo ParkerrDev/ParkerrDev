@@ -16,23 +16,4 @@ You can learn more about me on my website: [parkerhunt.me](https://parkerhunt.me
 - [X](https://x.com/AndrewParkerH)
 - [Personal Website](https://parkerhunt.me)
 
-## Skills
-  
-#### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=python,js,rust,cpp,bash,nix)
-
-#### Frontend Technologies
-![Programming Languages](https://skillicons.dev/icons?i=html,css,sass)
-
-#### Backend Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=nginx,flask,docker,mysql,sqlite,cloudflare)
-
-#### Other Technologies
-![Backend Technologies](https://skillicons.dev/icons?i=pytorch,sklearn,markdown,selenium,qt,opencv,bots)
-
-#### Operating Systems
-![OS's](https://skillicons.dev/icons?i=linux,nix,redhat,raspberrypi,kali,windows)
-
-#### Tools and Software
-![Backend Technologies](https://skillicons.dev/icons?i=vscode,neovim,obsidian,ps,figma,netlify,postman,git,github,githubactions,gitlab,anaconda)
 
