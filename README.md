@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @ParkerrDev
 
-I'm a third-year high school student at Floyd B. Buchanan High School, with an interest in software development, computer science, and cybersecurity.
+I'm a fourth-year high school student at Floyd B. Buchanan High School, with an interest in software development, computer science, and cybersecurity.
 
 You can learn more about me on my website: [parkerhunt.me](https://parkerhunt.me)
 
