@@ -12,8 +12,8 @@ You can learn more about me on my website: [parkerhunt.me](https://parkerhunt.me
 
 ## Connect with me
 - [Resume](https://parkerhunt.me/resume/)
+- [Website](https://parkerhunt.me)
 - [LinkedIn](https://www.linkedin.com/)
 - [X](https://x.com/AndrewParkerH)
-- [Personal Website](https://parkerhunt.me)
 
 
