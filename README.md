@@ -9,7 +9,5 @@ Floyd B. Buchanan High School Alumni (Class of 2026)
 ## Connect with me
 - [Resume](https://parkerhunt.me/resume/)
 - [Website](https://parkerhunt.me)
-- [LinkedIn](https://www.linkedin.com/)
+- [LinkedIn](https://www.linkedin.com/in/andrewparkerh/)
 - [X](https://x.com/AndrewParkerH)
-
-
